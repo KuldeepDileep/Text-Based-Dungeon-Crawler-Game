@@ -1,5 +1,5 @@
 # Text-Based-Dungeon-Crawler-Game
-In this assignment you will be creating a text based dungeon crawler game. The functions given here are all that you will need but you can make your own new functions. Details about the assignment are as following:
+In this course assignment of OOP you will be creating a text based dungeon crawler game in C++ and you are expected to implement OOP concepts learnt during lectures. The functions given here are all that you will need but you can make your own new functions. Details about the assignment are as following:
 * The dungeon should not be smaller than 8x8 grid.
 * P marks the position of player
 * X marks the position of Exit
